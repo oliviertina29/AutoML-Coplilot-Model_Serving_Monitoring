@@ -36,7 +36,3 @@ This repository contains the source code and associated resources for our projec
 
 #### Screenshot - Web app for prediction
 ![](app.png)
-
-## Required Configuration
-
-- List of necessary software and hardware dependencies.
