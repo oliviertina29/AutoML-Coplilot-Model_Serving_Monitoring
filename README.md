@@ -12,15 +12,18 @@ This repository contains the source code and associated resources for our projec
 ### 2. Deploy the Model
 
 - Deploy the model and take note of the generated endpoint.
+  
+#### Screenshot - deployed model and end-point
+![](dep.png)
 
 ### 3. Local Testing
 
 - Test the endpoint on the provided example inference data (`sample_inference_data`).
 
-#### Screenshot - Image 1
+#### Screenshot - Local inference 1
 ![](pred1.png)
 
-#### Screenshot - Image 2
+#### Screenshot - Local inference 2
 ![](pred2.png)
 
 ### 4. Build the Web Application
@@ -31,7 +34,7 @@ This repository contains the source code and associated resources for our projec
 
 - Deploy the API as a container for easier integration.
 
-#### Screenshot - Image 3
+#### Screenshot - Web app for prediction
 ![](app.png)
 
 ## Required Configuration
